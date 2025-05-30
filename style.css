@@ -1,0 +1,23 @@
+
+
+.ba{
+    font-family: Inter,;
+   
+    
+}
+
+.p2{
+    width: 260px;
+    font-size: 20px;
+    text-align: right;
+    margin-top: 200px;
+    margin-left: 970px;
+    margin-bottom: 200px;
+    
+}
+.linea-vertical {
+  width: 3px;
+  height: 250px;
+  background-color: #84FF00;
+}
+
